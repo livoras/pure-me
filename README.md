@@ -1,4 +1,4 @@
-pure-me
+Pure ME
 =======
 
 An entirely pure IM.
