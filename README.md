@@ -1,4 +1,4 @@
 pure-me
 =======
 
-A entirely pure IM.
+An entirely pure IM.
